@@ -2,6 +2,8 @@
 
 # dependencies
 server/node_modules
+prisma/dev.db
+prisma/dev.db-journal
 /.pnp
 .pnp.js
 
